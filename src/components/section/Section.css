@@ -1,0 +1,39 @@
+.section {
+  /* height: 100vh; */
+}
+
+.uk-card {
+  box-shadow: none;
+  border-bottom: 1px solid #EDEEE0;
+}
+
+.fresh-category-text {
+  margin: 0;
+  padding-left: 10px;
+  color: #c3c3c3;
+}
+
+.fresh-line {
+  text-decoration: line-through;
+  font-size: 12px;
+  padding-left: 15px;
+  padding-top: 3px;
+  padding-right: 15px;
+}
+
+.fresh-cart {
+  border-radius: 20px;
+  background: rgb(209,79,24);
+  background: linear-gradient(90deg, rgba(209,79,24,1) 17%, rgba(201,59,14,1) 43%, rgba(227,109,82,1) 85%);
+  color: #fff;
+  border: none;
+  font-weight: 600;
+  padding-left: 20px;
+
+}
+
+.fresh-hot {
+  border-color: orange;
+  color: orange;
+  border-radius: 30px;
+}

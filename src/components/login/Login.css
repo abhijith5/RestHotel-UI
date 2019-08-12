@@ -1,0 +1,6 @@
+.fresh-login {
+  width: 100%;
+  background: rgb(209, 79, 24);
+  background: linear-gradient(90deg, rgba(209, 79, 24, 1) 17%, rgba(201, 59, 14, 1) 43%, rgba(227, 109, 82, 1) 85%);
+  color: white;
+}

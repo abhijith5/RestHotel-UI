@@ -1,0 +1,56 @@
+.ficon {
+  font-size: 30px;
+}
+
+.uk-navbar-nav>li>a {
+  color: #585757;
+  font-weight: 500;
+}
+
+.uk-navbar-right {
+  padding-right: 30px;
+}
+
+.uk-offcanvas-flip .uk-open>.uk-offcanvas-bar {
+
+  background-color: white;
+  color: black;
+}
+
+.uk-close {
+  background-color: white !important;
+}
+
+
+button.uk-icon:not(:disabled) {
+  cursor: pointer;
+  color: black;
+}
+
+button.uk-icon:not(:disabled):hover {
+  cursor: pointer;
+  color: black;
+}
+
+.fresh-cart-side {
+  display: -webkit-box;
+  margin-top: 20px;
+}
+
+.fresh-cart-side>img {
+  margin-right: 10px;
+}
+
+.fresh-cart-side>h5 {
+  margin-top: 0;
+  color: black;
+}
+
+.fresh-cart-item>p {
+  margin-bottom: 0
+}
+
+.fresh-cart-item>.fresh-btn>button {
+  border: 1px solid grey;
+  color: black;
+}

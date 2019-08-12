@@ -1,0 +1,38 @@
+.uk-navbar-container {
+  background: white !important;
+  border-bottom: 1px solid rgb(214, 214, 214);
+
+}
+.btn0{
+  height: 80px !important;
+}
+
+.btn1 {
+  background-color: #FBD020 !important;
+  color: black;
+  font-weight: 600;
+  text-align: left;
+}
+
+.btn2 {
+  background-color: #603B6D !important;
+  font-weight: 600;
+
+}
+
+.btn3 {
+  background-color: #E85826 !important;
+  font-weight: 600;
+
+}
+
+.btn4 {
+  background-color: white !important;
+  font-weight: 600;
+  color: black !important;
+}
+
+.get {
+  font-size: 10px;
+  text-transform: lowercase
+}

@@ -1,0 +1,25 @@
+.fresh-club {
+  background: rgb(23, 31, 60);
+  background: linear-gradient(90deg, rgba(23, 31, 60, 1) 30%, rgba(48, 17, 133, 1) 61%, rgba(74, 21, 85, 1) 80%);
+}
+
+.fresh-club-box {
+  padding-left: 20%;
+  padding-right: 30%;
+  padding-top: 10%;
+  color: white;
+}
+
+.fresh-club-i {
+  height: 50px;
+}
+
+.fresh-i>.d>i {
+  font-size: 40px;
+  padding-top: 5px;
+}
+
+.fresh-i>.d>p {
+  margin-top: 0;
+  padding-left: 10px;
+}
